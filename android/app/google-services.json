@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654717080679",
+    "project_id": "emmie-base",
+    "storage_bucket": "emmie-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654717080679:android:a4374d29c26fce400bf0c2",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkbzjm_MVdHZPq-rFXKfEsmvbd0jbMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
